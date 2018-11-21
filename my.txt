@@ -13,4 +13,5 @@ Git 最为出色的是它的合并跟踪（merge tracing）能力。
 
 
 今天学习一下Git分支的用法，Git分支是一个版本控制中一个十分十分十分强大的功能。
+git git git git git git git git git 
 
